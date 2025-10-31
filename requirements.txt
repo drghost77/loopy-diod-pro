@@ -1,11 +1,8 @@
-streamlit>=1.28.0
-pandas>=2.0.3
-numpy>=1.24.3
-plotly>=5.15.0
-country-converter>=0.7.2
-phonenumbers>=8.13.0
-openpyxl>=3.1.2
-requests>=2.31.0
 streamlit
 pandas
-xlsxwriter
+openpyxl
+phonenumbers
+plotly
+country_converter
+reportlab
+pypdf2
