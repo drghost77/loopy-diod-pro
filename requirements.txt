@@ -2,6 +2,4 @@ streamlit
 pandas
 openpyxl
 phonenumbers
-plotly
 reportlab
-pypdf2
