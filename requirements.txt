@@ -3,6 +3,5 @@ pandas
 openpyxl
 phonenumbers
 plotly
-country_converter
 reportlab
 pypdf2
