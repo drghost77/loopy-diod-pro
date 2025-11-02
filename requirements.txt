@@ -1,6 +1,5 @@
-streamlit
-pandas
-openpyxl
-phonenumbers
-plotly
-reportlab
+streamlit>=1.25
+pandas>=2.0
+plotly>=5.20
+phonenumbers>=8.13
+reportlab>=3.6
